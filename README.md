@@ -1,4 +1,4 @@
-# hmcalc — Human-Centered Math for Python
+# hmcalc - Human-Centered Math for Python
 
 Python is excellent at **performing raw calculations**.  
 `hmcalc` excels at **contextualizing those numbers for human decision-making**.
@@ -46,7 +46,7 @@ While functional, this approach often leads to:
 
 Python provides the raw math; humans need the meaningful interpretation.
 
-`hmcalc` encodes the logic humans already use in their heads—change, growth, decline, closeness, stability—into a reliable, reusable API.
+`hmcalc` encodes the logic humans already use in their heads-change, growth, decline, closeness, stability-into a reliable, reusable API.
 
 ## What hmcalc does differently
 
